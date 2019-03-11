@@ -10,10 +10,6 @@ Public Class _default
 
     End Sub
 
-    Protected Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox1.TextChanged
-
-    End Sub
-
     Public Sub LlenaCombo()
 
 
