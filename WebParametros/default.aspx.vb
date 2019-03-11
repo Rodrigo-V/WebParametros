@@ -76,7 +76,7 @@ Public Class _default
             If cmd.ExecuteNonQuery() Then
                 MsgBox("REGISTRO GUARADADO CORRECTAMENTE", vbExclamation)
             Else
-                MsgBox("no se guardo el formulario" + vbCritical)
+                MsgBox("no se guardo el formulario deseado" + vbCritical)
             End If
 
 
