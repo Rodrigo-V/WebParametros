@@ -82,6 +82,7 @@ Public Class _default
 
         Catch ex As Exception
 
+
         Finally
             If conn.State = ConnectionState.Open Then
                 cmd.Connection = conn
